@@ -1,32 +1,19 @@
-<<<<<<< HEAD
 [
   {
-    "name": "_session_id2",
-    "value": "8b7fe910188a2b44ea1d7d5883ecca9c",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "likely_has_account",
-    "value": "true",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
     "name": "sess-at-main",
-    "value": "\"VUPu45KkztMtmLvawbdx89UrsNCuRcQ5cQtHz6VCeBs=\"",
+    "value": "\"UUHfJjdQZy71nclsz1h8UAOh8fY7zyoMGrQ5qTzgCeg=\"",
     "domain": ".goodreads.com",
     "path": "/"
   },
   {
     "name": "session-token",
-    "value": "\"lJp8A/QYLxtsXKLzGcV9SVjjlhhgVATo+fHNqVJamih7IEnQCHPAj8A25tlutePvoSVdU9jM1oV6g5ij85fVLnJA3QSUAd8g6loPZPvTyg7xto1DEtV683lYnAHX21ifBwmxTbpMfYDERUwZxpLWlH5U+0oKQLgOQrFBZ64QBYK7rX+xugexNxlsQmkXE7xuMvIjyHx8zadHmjfVEqIMmQtwEpRPotafP7DyfVsBUPaoOi5fqmzfVEMoqYzhmphfcNLVveXvP9+U6R/7z14PuiVJ1/eJ27mS+JrOH1GsOdoyG9WV98MSvmTeD9aItF8XUT3qpDAjBI5R7HLSC73muNZY3wMk9MJhD3nGiTfnPwLL4v5Q4JM5DQ==\"",
+    "value": "\"Zy/JztqXDudezJz2DLGJ8wPqzIKkry+7BXmc3hnlVOO6qa1mGfLC4K4R606yh6BprhR0gWFB0LWg+NbIDfPRd8VXKMq6GUnEckEddkoGXqAGiUgSN1QObvwnZd4guN8EDeWs8QGZUBNL6dsDasvRjYC1Dy772tjm4VoX7S/ZpkpzTb0eTHfAVyRFmWRiAO5UAaW6e+iZmvgHT9r/A7/NWH7BMq0qkijz6mvKHRHXR96jrSlZZ45U8esE4hr0qmRWYPWpV9OUiTXvNZ3SvsKTolgdzz9q1t2BD37e5GSeo2eqCt24JU4hA10hxfIKA9Lr8X5FUbWS0wZ66rDVl7VE6x5w7+zheLNpzHJkT6J+pS9ojMTOnYRWAQ==\"",
     "domain": ".goodreads.com",
     "path": "/"
   },
   {
     "name": "csm-hit",
-    "value": "tb:s-B8KW9J2S85NWNWXAW0VH|1754703222128&t:1754703222128",
+    "value": "tb:s-8MQ84P9V6EXSG69FKJZC|1759054253602&t:1759054253602",
     "domain": "www.goodreads.com",
     "path": "/"
   },
@@ -37,136 +24,32 @@
     "path": "/"
   },
   {
-    "name": "ubid-main",
-    "value": "133-3131182-2058706",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "logged_out_browsing_page_count",
-    "value": "2",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "__qca",
-    "value": "P1-5a6fec21-c461-4c3c-bfa4-01da8f620bbb",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
     "name": "at-main",
-    "value": "Atza|IwEBIJqgGH7Ym_DMmf9_Q66BSU5TP2n-pNqXuvy0L1NUGm_I1P0z-rzdmIOZ_Wo_PQ6MM3SITUAZm5KWKkIDfuRfimZR2arIHsnNoavSvvvGPeGaNkmg1Oc_AbnXXc4pTWPig7gEaIMr7DZTGY8AIxSpfIms8VTmlRrLv34mL96PIxMiMvsU0u65ons29nAJajADPEQB1i9cMwNeREjwh7z445SVqAdFDGBbwakNj2uu9beKCpQV2EtkPG_0qSYDlDXZCL4",
+    "value": "Atza|IwEBINbZTrXW-uMroT6KgCGUufK4MmjSEaMh3sdHj6I_L0d84-3k-TT2Ym8I84TdAm9bBJRhq0VwrId72uUjkMT5kj4SK7lc-1RFQ-LRrYS6U7h9N6paZ3-LykkhMdfLONYu1tAijjEIhIcTWNFw-28Bc96JgTzdku_gd3ksjjDiTi156nR_svtJ6w5rs311811QMoew0TKeDQRh5nA_CFrpDnntZPsIIEcCLznOePPduxJzUYBajfs86j_spOXPF5W7ct4",
     "domain": ".goodreads.com",
     "path": "/"
   },
   {
     "name": "x-main",
-    "value": "\"gEvaosP8TesTqxda1yvmyMHD9Q6QiG63Pfsf2Al8GuWBLPiitc4EmFh8vz64wYN@\"",
+    "value": "\"ttXOYCcOotzkiE9eEOX2vc4KZm57sJcrN1tw4d3xpy5P36NKxnvc?wbjtpLrKqUE\"",
     "domain": ".goodreads.com",
     "path": "/"
   },
   {
     "name": "session-id-time",
-    "value": "2385423237l",
+    "value": "2389774281l",
     "domain": ".goodreads.com",
     "path": "/"
   },
   {
     "name": "ccsid",
-    "value": "572-8804628-9365675",
+    "value": "399-5361537-6022239",
     "domain": "www.goodreads.com",
     "path": "/"
   },
-  {
-    "name": "locale",
-    "value": "en",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "session-id",
-    "value": "133-6400802-8183336",
-    "domain": ".goodreads.com",
-    "path": "/"
-  }
-=======
-[
   {
     "name": "_session_id2",
-    "value": "8b7fe910188a2b44ea1d7d5883ecca9c",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "likely_has_account",
-    "value": "true",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "sess-at-main",
-    "value": "\"VUPu45KkztMtmLvawbdx89UrsNCuRcQ5cQtHz6VCeBs=\"",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "session-token",
-    "value": "\"lJp8A/QYLxtsXKLzGcV9SVjjlhhgVATo+fHNqVJamih7IEnQCHPAj8A25tlutePvoSVdU9jM1oV6g5ij85fVLnJA3QSUAd8g6loPZPvTyg7xto1DEtV683lYnAHX21ifBwmxTbpMfYDERUwZxpLWlH5U+0oKQLgOQrFBZ64QBYK7rX+xugexNxlsQmkXE7xuMvIjyHx8zadHmjfVEqIMmQtwEpRPotafP7DyfVsBUPaoOi5fqmzfVEMoqYzhmphfcNLVveXvP9+U6R/7z14PuiVJ1/eJ27mS+JrOH1GsOdoyG9WV98MSvmTeD9aItF8XUT3qpDAjBI5R7HLSC73muNZY3wMk9MJhD3nGiTfnPwLL4v5Q4JM5DQ==\"",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "csm-hit",
-    "value": "tb:s-B8KW9J2S85NWNWXAW0VH|1754703222128&t:1754703222128",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "lc-main",
-    "value": "en_US",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "ubid-main",
-    "value": "133-3131182-2058706",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "logged_out_browsing_page_count",
-    "value": "2",
-    "domain": "www.goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "__qca",
-    "value": "P1-5a6fec21-c461-4c3c-bfa4-01da8f620bbb",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "at-main",
-    "value": "Atza|IwEBIJqgGH7Ym_DMmf9_Q66BSU5TP2n-pNqXuvy0L1NUGm_I1P0z-rzdmIOZ_Wo_PQ6MM3SITUAZm5KWKkIDfuRfimZR2arIHsnNoavSvvvGPeGaNkmg1Oc_AbnXXc4pTWPig7gEaIMr7DZTGY8AIxSpfIms8VTmlRrLv34mL96PIxMiMvsU0u65ons29nAJajADPEQB1i9cMwNeREjwh7z445SVqAdFDGBbwakNj2uu9beKCpQV2EtkPG_0qSYDlDXZCL4",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "x-main",
-    "value": "\"gEvaosP8TesTqxda1yvmyMHD9Q6QiG63Pfsf2Al8GuWBLPiitc4EmFh8vz64wYN@\"",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "session-id-time",
-    "value": "2385423237l",
-    "domain": ".goodreads.com",
-    "path": "/"
-  },
-  {
-    "name": "ccsid",
-    "value": "572-8804628-9365675",
+    "value": "8fd6a4fe3d1f2bb852f71b0115fc5519",
     "domain": "www.goodreads.com",
     "path": "/"
   },
@@ -177,10 +60,21 @@
     "path": "/"
   },
   {
+    "name": "ubid-main",
+    "value": "131-4176230-3303539",
+    "domain": ".goodreads.com",
+    "path": "/"
+  },
+  {
+    "name": "logged_out_browsing_page_count",
+    "value": "1",
+    "domain": "www.goodreads.com",
+    "path": "/"
+  },
+  {
     "name": "session-id",
-    "value": "133-6400802-8183336",
+    "value": "138-2217689-1880719",
     "domain": ".goodreads.com",
     "path": "/"
   }
->>>>>>> ea06f5525dee1ad2eaf082ee1980d147aeee5f2c
 ]
