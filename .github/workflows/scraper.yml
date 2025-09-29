@@ -2,8 +2,8 @@ name: Goodreads Scraper
 
 on:
   schedule:
-    # Runs every day at 06:00 UTC (1:00 PM in your local WIB time)
-    - cron: "0 6 * * *"
+    # Runs every day at 01:00 UTC (8:00 PM in your local WIB time)
+    - cron: "0 1 * * *"
   workflow_dispatch:
     # Allows you to run this workflow manually from the Actions tab
 
