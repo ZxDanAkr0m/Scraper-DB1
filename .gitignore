@@ -5,3 +5,6 @@ venv/
 # Ignore cache and compiled files
 __pycache__/
 *.pyc
+# Ignore sensitive data and local files
+goodreads_cookies.json
+chrome_profile/
